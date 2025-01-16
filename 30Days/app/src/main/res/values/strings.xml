@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">30 Days</string>
+
+    <string name="title1">Apoio fervoroso da bancada</string>
+    <string name="title2">Explosão de alegria com golo decisivo</string>
+    <string name="title3">União antes do início do jogo decisivo</string>
+    <string name="title4">Bancada Vibrante no Jogo de Futsal</string>
+    <string name="title5">Equipa celebra a vitória com medalhas</string>
+
+    <string name="desc1">Torcida vibrante incentiva a equipa, criando uma atmosfera contagiante de energia e emoção durante o jogo.</string>
+    <string name="desc2">Jogadores comemoram intensamente após marcar o golo que garantiu a vitória, mostrando o entusiasmo e a paixão pelo desporto.</string>
+    <string name="desc3">A equipa reúne-se em círculo no centro do campo para um momento de motivação coletiva, demonstrando força e foco antes do desafio</string>
+    <string name="desc4">Torcedores animados enchem a bancada, criando uma atmosfera eletrizante durante um jogo de futsal. Bandeiras, aplausos e expressões de entusiasmo destacam a paixão pelo desporto. A quadra reflete a intensidade do confronto, enquanto a energia da torcida impulsiona os jogadores em busca da vitória.</string>
+    <string name="desc5">Equipa reunida para uma foto oficial após conquistar uma vitória memorável, exibindo as suas medalhas de ouro e a união que os levou ao sucesso.</string>
+
+    <string name="top_bar_title">30 Days Of CBP</string>
+</resources>
